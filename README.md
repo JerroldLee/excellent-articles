@@ -1,5 +1,6 @@
 # 优秀文章集
 
+* ##### 7分钟理解JS的节流、防抖及使用场景 http://t.cn/RFd3s47
 
 * ##### 漂亮的实力派 Ant Design Pro 2.0 正式发布 http://t.cn/RFECdCM
 
