@@ -1,5 +1,15 @@
 # 优秀文章集
 
+* ##### 如何保障前端项目的代码质量 http://t.cn/Rst9HyF
+
+* ##### 近两万字小程序攻略发布了 http://t.cn/RsUhpNn
+
+* ##### 如何在JavaScript中更好地使用数组 http://t.cn/RsckyDS
+
+* ##### rem布局解析 http://t.cn/RsckEjk
+
+* ##### snabbdom 源码阅读分析 http://t.cn/RscFaKU
+
 * ##### 7分钟理解JS的节流、防抖及使用场景 http://t.cn/RFd3s47
 
 * ##### 漂亮的实力派 Ant Design Pro 2.0 正式发布 http://t.cn/RFECdCM
