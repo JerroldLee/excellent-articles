@@ -4,7 +4,7 @@
 
 * 如何快速解决繁杂的国际化替换 http://t.cn/EvOmwT2
 
-*【译】你可能不需要Moment.js http://t.cn/EvOmI60
+* 【译】你可能不需要Moment.js http://t.cn/EvOmI60
 
 * 工作七年的切图仔如何面试web前端？ http://t.cn/RskeZPN
 
