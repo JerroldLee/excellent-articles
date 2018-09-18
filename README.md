@@ -1,5 +1,11 @@
 # 优秀文章集
 
+* [electron]终极奥义 五千字教程丢给你 http://t.cn/EvOERaf
+
+* 如何快速解决繁杂的国际化替换 http://t.cn/EvOmwT2
+
+*【译】你可能不需要Moment.js http://t.cn/EvOmI60
+
 * 工作七年的切图仔如何面试web前端？ http://t.cn/RskeZPN
 
 * 生命在于折腾，写一个前端资讯推送服务 http://t.cn/Rske0SA
