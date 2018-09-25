@@ -1,5 +1,21 @@
 # 优秀文章集
 
+* 用 React 开发小程序的探索之路  http://t.cn/Ev3RBJc
+
+* 云开发初探 —— 更简便的小程序开发模式 http://t.cn/Ev3RdfN
+
+* 三大图表库：ECharts 、 BizCharts 和 G2，该如何选择？ http://t.cn/EvDRYHw
+
+* Vue页面跳转动画效果实现 http://t.cn/EvDEd5L
+
+* 小程序入口构造工具&二维码测试工具 http://t.cn/EvDnLtm
+
+* 微信小游戏开发技巧（大会演讲内容整理）http://t.cn/EPJA7hz
+
+* 优雅的现代JavaScript设计模式: 冰冻工厂 http://t.cn/EPJAzEV
+
+* CSS 中重要的层叠概念 http://t.cn/EPJAw4R
+
 * [electron]终极奥义 五千字教程丢给你 http://t.cn/EvOERaf
 
 * 如何快速解决繁杂的国际化替换 http://t.cn/EvOmwT2
