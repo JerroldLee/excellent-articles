@@ -1,5 +1,19 @@
 # 优秀文章集
 
+* 请用CSS命名“一条粉色的蕾丝女式内裤” http://t.cn/EPWJOXk
+
+* 原来vue的slot可以这么玩转 http://t.cn/EPoCbN6
+
+* 动手制作nodejs命令行工具 iconfont-cli http://t.cn/EPWJorO
+
+* Airbnb 爱彼迎房源详情页中的 React 性能优化 http://t.cn/EPWJCAb
+
+* [译] 尤雨溪：Vue 3.0 计划 http://t.cn/E7PcM7d
+
+* Vue解析--如何应对面试官提问 http://t.cn/E7P9AsP
+
+* 基于vue-cli3.0构建功能完善的前端架子 http://t.cn/E7P9LJK
+
 * 用 React 开发小程序的探索之路  http://t.cn/Ev3RBJc
 
 * 云开发初探 —— 更简便的小程序开发模式 http://t.cn/Ev3RdfN
