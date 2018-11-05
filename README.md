@@ -1,5 +1,47 @@
 # 优秀文章集
 
+* gRPC-Web发布，REST又要被干掉了？ http://t.cn/EZV9qIw
+
+* 【译】函数式的 setState 是 React 的未来 http://t.cn/EZV9u8M
+
+*  基于正态分布的前端性能数据分析 http://t.cn/EZVpbZ9
+
+* WebSocket是时候展现你优秀的一面了 http://t.cn/EzrON5a
+
+* 有人考了我一道CSS题目 http://t.cn/Ezrl1IV
+
+* 为什么 JavaScript 的私有属性使用 # 符号 http://t.cn/EzrjSfD
+
+* 渔人和Rxjs的故事,这次一定教会你前端必会的Rxjs http://t.cn/Ez6BxU7
+
+* [译] 现代浏览器内部揭秘 http://t.cn/Ez6rAVt
+
+* 那些我们该讨论的前端加密方法 http://t.cn/Ez6rnft
+
+* 腾讯发布前端组件框架 Omi，全面拥抱 Web Components http://t.cn/EzczrlC
+
+* 幻术，一行代码实现镂空效果 http://t.cn/EzcZL3c
+
+* 深度介绍：💾 你听说过原生 HTML 组件吗？ http://t.cn/EzcZudF
+
+* VsCode 添加文件头部注释和函数注释 http://t.cn/Ez2JYE2
+
+* 从一道面试题说起—js隐式转换踩坑合集 http://t.cn/Ez2Jg0k
+
+* CSS实现元素居中原理解析 http://t.cn/Ez2iq9j
+
+* 前端骨架屏方案小结 http://t.cn/E7F39Vo
+
+* Typescript配合React实践 http://t.cn/E7F1hcc
+
+* 聊聊我对现代前端框架的认知 http://t.cn/E7F1IXE
+
+* 如何构建一个不到100行的小程序端mini版本redux http://t.cn/E73OoXe
+
+* 小哥哥～手把手教你如何绘制一辆跑车 http://t.cn/E73Oe33
+
+* 精准操控的滚动体验，浅谈新标准 Scroll Snap http://t.cn/E73Wl1s
+
 * 请用CSS命名“一条粉色的蕾丝女式内裤” http://t.cn/EPWJOXk
 
 * 原来vue的slot可以这么玩转 http://t.cn/EPoCbN6
