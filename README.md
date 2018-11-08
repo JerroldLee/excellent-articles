@@ -1,5 +1,17 @@
 # 优秀文章集
 
+* KOA2框架原理解析和实现 http://t.cn/EAAYBe2
+
+* loading动画的性能优化-摒弃Canvas，拥抱CSS3-实现点击特效 http://t.cn/EAATwyh
+
+* 一次内联元素错位引发对line-height的思考 http://t.cn/EAATVR8
+
+* 你所不知道的 CSS 阴影技巧与细节 http://t.cn/EwrRzYE
+
+* 如何给localStorage设置一个过期时间？ http://t.cn/EwrRqLI
+
+* 前端工程师的日常修炼清单 http://t.cn/EwrRiCZ
+
 * ##### gRPC-Web发布，REST又要被干掉了？ http://t.cn/EZV9qIw
 
 * ##### 【译】函数式的 setState 是 React 的未来 http://t.cn/EZV9u8M
